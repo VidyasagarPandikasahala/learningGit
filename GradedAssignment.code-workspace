@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../downloads/Compressed/Images fot HTML Assignment/Images/Animation"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "GradedAssignment"
+  }
+}
